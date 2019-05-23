@@ -1,0 +1,24 @@
+c:\users\nazar\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Nazar\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Nazar\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Nazar\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Nazar\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\Nazar\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Nazar\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+C:\Users\Nazar\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Nazar\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Nazar\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBookDB.sdf
+C:\Users\Nazar\Desktop\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Nazar\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Nazar\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Nazar\Desktop\PhoneBook\PhoneBook\bin\Debug\PhoneBookDB.sdf
+C:\Users\Nazar\Desktop\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Nazar\Desktop\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Nazar\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Nazar\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\Nazar\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Nazar\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+C:\Users\Nazar\Desktop\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.manifest
+C:\Users\Nazar\Desktop\PhoneBook\PhoneBook\bin\Debug\PhoneBook.application
+C:\Users\Nazar\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe.manifest
+C:\Users\Nazar\Desktop\PhoneBook\PhoneBook\obj\Debug\PhoneBook.application
